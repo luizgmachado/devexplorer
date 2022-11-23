@@ -62,7 +62,7 @@ export const data = {
     stage03: {
       criando_formularios: {
         codigo_url: "https://github.com/Luiz-Gustavo-Machado/Form-avancado",
-        deploy_url: ""
+        deploy_url: "."
       },
       mobile_first: {
         codigo_url: "https://github.com/Luiz-Gustavo-Machado/Space-Cream",
